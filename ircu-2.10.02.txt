@@ -1,0 +1,47 @@
+001	RPL_WELCOME         	:Welcome to the Internet Relay Network %s
+002	RPL_YOURHOST        	:Your host is %s, running version %s
+003	RPL_CREATED         	:This server was created %s
+004	RPL_MYINFO          	%s %s dioswk biklmnopstv
+005	RPL_MAP             	:%s%s
+006	RPL_MAPMORE         	:%s%s --> *more*
+007	RPL_MAPEND          	:End of /MAP
+008	RPL_SNOMASK         	%d :: Server notice mask (%#x)
+009	RPL_STATMEMTOT      	%u %u :Bytes Blocks
+010	RPL_STATMEM         	%u %u %s
+200	RPL_TRACELINK       	Link %s%s %s %s %lu
+204	RPL_TRACEOPERATOR   	Oper %d %s %ld
+205	RPL_TRACEUSER       	User %d %s %ld
+206	RPL_TRACESERVER     	Serv %d %dS %dC %s %s!%s@%s %ld %ld
+217	RPL_STATSPLINE      	%c %d %d %#x
+246	RPL_STATSTLINE      	%c %s %s
+247	RPL_STATSGLINE      	%c %s@%s %lu :%s
+248	RPL_STATSULINE      	%c %s * %s %d %d
+250	RPL_STATSCONN       	:Highest connection count: %d (%d clients)
+262	RPL_TRACEPING       	Ping %s %s
+271	RPL_SILELIST        	%s %s
+272	RPL_ENDOFSILELIST   	:End of Silence List
+275	RPL_STATSDLINE      	%c %s %s
+280	RPL_GLIST           	%s@%s %lu %s%s
+281	RPL_ENDOFGLIST      	:End of G-line List
+307	RPL_USERIP          	:
+317	RPL_WHOISIDLE       	%s %ld %ld :seconds idle, signon time
+329	RPL_CREATIONTIME    	%s %lu
+333	RPL_TOPICWHOTIME    	%s %s %lu
+334	RPL_LISTUSAGE       	:%s
+352	RPL_WHOREPLY        	%s
+354	RPL_WHOSPCRPL       	%s
+364	RPL_LINKS           	%s %s :%d P%u %lu (%c) %s
+367	RPL_BANLIST         	%s %s %s %lu
+391	RPL_TIME            	%s %lu %ld :%s
+401	ERR_NOSUCHNICK      	%s :No such nick
+416	ERR_QUERYTOOLONG    	%s :Too many lines in the output, restrict your query
+437	ERR_BANNICKCHANGE   	%s :Cannot change nickname while banned on channel
+438	ERR_NICKTOOFAST     	%s :Nick change too fast. Please wait %d seconds.
+439	ERR_TARGETTOOFAST   	%s :Target change too fast. Please wait %d seconds.
+468	ERR_INVALIDUSERNAME 	
+477	ERR_MODELESS        	%s :Channel doesn't support modes
+478	ERR_BANLISTFULL     	%s %s :Channel ban/ignore list is full
+484	ERR_ISCHANSERVICE   	%s %s :Cannot kill, kick or deop channel service
+511	ERR_SILELISTFULL    	%s :Your silence list is full
+512	ERR_NOSUCHGLINE     	%s@%s :No such gline
+513	ERR_BADPING         	

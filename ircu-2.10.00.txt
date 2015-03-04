@@ -1,0 +1,32 @@
+001	RPL_WELCOME         	:Welcome to the Internet Relay Network %s
+002	RPL_YOURHOST        	:Your host is %s, running version %s
+003	RPL_CREATED         	:This server was created %s
+004	RPL_MYINFO          	%s %s oiws biklmnopstv
+200	RPL_TRACELINK       	Link %s%s %s %s
+204	RPL_TRACEOPERATOR   	Oper %d %s
+205	RPL_TRACEUSER       	User %d %s
+206	RPL_TRACESERVER     	Serv %d %dS %dC %s %s!%s@%s
+207	RPL_TRACESERVICE    	Service %d %s
+217	RPL_STATSQLINE      	%c %s * %s %d %d
+245	RPL_STATSSLINE      	%c %s * %s %d %d
+316	RPL_WHOISCHANOP     	
+317	RPL_WHOISIDLE       	%s %ld :seconds idle
+342	RPL_SUMMONING       	%s :User summoned to irc
+352	RPL_WHOREPLY        	%s %s %s %s %s %s :%d %s
+364	RPL_LINKS           	%s %s :%d %s
+367	RPL_BANLIST         	%s %s
+383	RPL_YOURESERVICE    	
+391	RPL_TIME            	%s :%s
+392	RPL_USERSSTART      	:UserID   Terminal  Host
+393	RPL_USERS           	:%-8s %-9s %-8s
+394	RPL_ENDOFUSERS      	:End of Users
+395	RPL_NOUSERS         	:Nobody logged in.
+401	ERR_NOSUCHNICK      	%s :No such nick/channel
+408	ERR_NOSUCHSERVICE   	
+424	ERR_FILEERROR       	:File error doing %s on %s
+434	ERR_SERVICENAMEINUSE	
+435	ERR_SERVICECONFUSED 	
+444	ERR_NOLOGIN         	%s :User not logged in
+445	ERR_SUMMONDISABLED  	:SUMMON has been disabled
+446	ERR_USERSDISABLED   	:USERS has been disabled
+492	ERR_NOSERVICEHOST   	

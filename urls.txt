@@ -1,0 +1,7 @@
+http://www.alien.net.au/irc/irc2numerics.html
+http://svn.hydrairc.com/hydrairc/trunk/Reference Docs/irc-numerics-conflicts.htm
+http://ogn2.onlinegamesnet.net/filedetails.php?repname=ircu&path=%2Ftrunk%2Fircu-dev%2Finclude%2Fnumeric.h&rev=262
+http://www.mirc.net/raws/?view=329
+http://wiki.inspircd.org/List_Of_Numerics
+
+http://www.google.fr/search?q=RPL_CREATIONTIME+ircu
